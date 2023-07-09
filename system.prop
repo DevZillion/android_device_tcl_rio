@@ -1,4 +1,3 @@
-ro.product.board=MT6761
 ro.board.platform=mt6761
 persist.sys.disable_rescue=true
 sys.usb.controller=musb-hdrc
